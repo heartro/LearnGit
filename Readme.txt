@@ -18,3 +18,4 @@ ooooooooooooo - hotfix
 heartroQuake：大家好啊，我是新来的，的的的！
 heartroQuake：今天天气不错，适合出去晒太阳遛弯哒。。。
 heartroQuake：今天吃了棒棒糖和桂圆，想当安逸。。 - edit by heartro & heartroQuake
+heartroQuakeii：我是QuakeII，我比较牛逼，哈哈哈哈。
