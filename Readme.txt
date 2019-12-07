@@ -1,10 +1,10 @@
-aaaaaaaaaaaaa
+aaaaaaaaaaaaa - edit by master
 bbbbbbbbbbbbb - edit by hotfix
 ccccccccccccc
-ddddddddddddd
+ddddddddddddd 
 eeeeeeeeeeeee
 fffffffffffff
-ggggggggggggg - edit by hotfix
+ggggggggggggg - edit by hotfix & master
 hhhhhhhhhhhhh
 iiiiiiiiiiiii
 jjjjjjjjjjjjj
